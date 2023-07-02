@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>tik_tak_toe</RootNamespace>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+</Project>

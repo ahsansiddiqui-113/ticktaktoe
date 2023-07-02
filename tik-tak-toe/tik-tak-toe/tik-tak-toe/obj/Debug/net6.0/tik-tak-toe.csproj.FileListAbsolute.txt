@@ -1,0 +1,30 @@
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.csproj.AssemblyReference.cache
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.AssemblyInfoInputs.cache
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.AssemblyInfo.cs
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.csproj.CoreCompileInputs.cache
+D:\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.exe
+D:\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.deps.json
+D:\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.runtimeconfig.json
+D:\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.dll
+D:\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.pdb
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.dll
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\refint\tik-tak-toe.dll
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.pdb
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.genruntimeconfig.cache
+D:\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\ref\tik-tak-toe.dll
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.exe
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.deps.json
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.runtimeconfig.json
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.dll
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\bin\Debug\net6.0\tik-tak-toe.pdb
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.csproj.AssemblyReference.cache
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.AssemblyInfoInputs.cache
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.AssemblyInfo.cs
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.csproj.CoreCompileInputs.cache
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.dll
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\refint\tik-tak-toe.dll
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.pdb
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\tik-tak-toe.genruntimeconfig.cache
+E:\Ahsan Data\Ahsan New Laptop Data\tik-tak-toe\tik-tak-toe\tik-tak-toe\obj\Debug\net6.0\ref\tik-tak-toe.dll

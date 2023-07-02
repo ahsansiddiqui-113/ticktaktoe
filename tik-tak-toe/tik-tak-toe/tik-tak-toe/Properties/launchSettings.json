@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "tik-tak-toe": {
+      "commandName": "Project",
+      "commandLineArgs": "test-case-1"
+    }
+  }
+}

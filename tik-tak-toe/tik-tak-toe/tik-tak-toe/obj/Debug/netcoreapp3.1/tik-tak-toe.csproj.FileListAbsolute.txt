@@ -1,0 +1,14 @@
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\netcoreapp3.1\tik-tak-toe.exe
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\netcoreapp3.1\tik-tak-toe.deps.json
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\netcoreapp3.1\tik-tak-toe.runtimeconfig.json
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\netcoreapp3.1\tik-tak-toe.runtimeconfig.dev.json
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\netcoreapp3.1\tik-tak-toe.dll
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\bin\Debug\netcoreapp3.1\tik-tak-toe.pdb
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\netcoreapp3.1\tik-tak-toe.csproj.AssemblyReference.cache
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\netcoreapp3.1\tik-tak-toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\netcoreapp3.1\tik-tak-toe.AssemblyInfoInputs.cache
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\netcoreapp3.1\tik-tak-toe.AssemblyInfo.cs
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\netcoreapp3.1\tik-tak-toe.csproj.CoreCompileInputs.cache
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\netcoreapp3.1\tik-tak-toe.dll
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\netcoreapp3.1\tik-tak-toe.pdb
+C:\Users\Moham\source\repos\tik-tak-toe\tik-tak-toe\obj\Debug\netcoreapp3.1\tik-tak-toe.genruntimeconfig.cache
